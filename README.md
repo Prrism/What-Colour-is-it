@@ -1,7 +1,7 @@
 # What Colour is it? Website version
 
 original website (~~whatcolourisit.scn9a.org/~~DO NOT CLICK: MALICIOUS) is down, so i created a new one.                                                       
-Go to http://timecolor.github.io                                                  
+Go to https://timecolor.github.io                                                  
 
 I DID NOT CREATE THIS WEBSITE                                                                                                            
 the maker is https://github.com/Jonic                                                                                                    
